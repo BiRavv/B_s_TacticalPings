@@ -1,0 +1,4 @@
+name: B_s_TactikalPings
+version: '1.0'
+main: biraw.online.b_s_TactikalPings.B_s_TactikalPings
+api-version: '1.21'

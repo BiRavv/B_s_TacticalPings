@@ -27,6 +27,15 @@ public final class B_s_TacticalPings extends JavaPlugin {
         this.getCommand("pt").setExecutor(tcm);
         this.getCommand("pt").setTabCompleter(tcm);
         ConfigManager.loadAndSaveConfig();
+
+        getLogger().info(" ");
+        getLogger().info("O=========================================================O");
+        getLogger().info("    The B's TacticalPing plugin has loaded successfully!");
+        getLogger().info("       This is B's TacticalPing for Minecraft 1.21+"    );
+        getLogger().info("                       Author: BiRaw");
+        getLogger().info("         Discord: https://discord.gg/XwFqu7uahX ^.^");
+        getLogger().info("O=========================================================O");
+        getLogger().info(" ");
     }
 
     @Override

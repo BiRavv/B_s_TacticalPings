@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>biraw.online</groupId>
-    <artifactId>B_s_TactikalPings</artifactId>
+    <artifactId>B_s_TacticalPings</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>B_s_TactikalPings</name>
+    <name>B_s_TacticalPings</name>
 
     <properties>
         <java.version>21</java.version>

@@ -1,0 +1,4 @@
+ping_reach: 200
+ping_limit: 10
+ping_duration: 8
+#Duration in seconds

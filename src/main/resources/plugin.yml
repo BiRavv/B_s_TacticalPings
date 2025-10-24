@@ -1,4 +1,18 @@
-name: B_s_TactikalPings
+name: B_s_TacticalPings
 version: '1.0'
-main: biraw.online.b_s_TactikalPings.B_s_TactikalPings
+main: biraw.online.b_s_TactikalPings.B_s_TacticalPings
 api-version: '1.21'
+
+commands:
+  pingteam:
+    description: Allows for management of teams
+    usage: "/pt <create | leave | invite | accept | list>"
+    permission: b_s_tp.pingteam
+    permission-message: You don't have permission to use this command!
+    aliases:
+      - pt
+
+  permissions:
+    b_s_tp.pingteam:
+      description: Allows the player to use /pt
+      default: true

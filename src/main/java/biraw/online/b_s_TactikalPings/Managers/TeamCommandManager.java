@@ -1,7 +1,5 @@
-package biraw.online.b_s_TactikalPings.Commands;
+package biraw.online.b_s_TactikalPings.Managers;
 
-import biraw.online.b_s_TactikalPings.B_s_TacticalPings;
-import biraw.online.b_s_TactikalPings.Managers.TeamManager;
 import biraw.online.b_s_TactikalPings.Objects.PlayerObject;
 import biraw.online.b_s_TactikalPings.Objects.TeamObject;
 import net.md_5.bungee.api.chat.ClickEvent;
@@ -15,7 +13,6 @@ import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class TeamCommandManager implements CommandExecutor, TabExecutor {

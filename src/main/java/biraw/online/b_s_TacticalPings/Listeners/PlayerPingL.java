@@ -1,12 +1,11 @@
-package biraw.online.b_s_TactikalPings.Listeners;
+package biraw.online.b_s_TacticalPings.Listeners;
 
-import biraw.online.b_s_TactikalPings.Managers.ConfigManager;
-import biraw.online.b_s_TactikalPings.Managers.TeamManager;
-import biraw.online.b_s_TactikalPings.Objects.PlayerObject;
-import biraw.online.b_s_TactikalPings.Objects.TeamObject;
+import biraw.online.b_s_TacticalPings.Managers.ConfigManager;
+import biraw.online.b_s_TacticalPings.Managers.TeamManager;
+import biraw.online.b_s_TacticalPings.Objects.PlayerObject;
+import biraw.online.b_s_TacticalPings.Objects.TeamObject;
 import org.bukkit.FluidCollisionMode;
 import org.bukkit.Material;
-import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

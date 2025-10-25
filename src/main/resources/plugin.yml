@@ -1,6 +1,6 @@
 name: B_s_TacticalPings
 version: '1.0'
-main: biraw.online.b_s_TactikalPings.B_s_TacticalPings
+main: biraw.online.b_s_TacticalPings.B_s_TacticalPings
 api-version: '1.21'
 
 commands:
@@ -12,7 +12,7 @@ commands:
     aliases:
       - pt
 
-  permissions:
-    b_s_tp.pingteam:
-      description: Allows the player to use /pt
-      default: true
+permissions:
+  b_s_tp.pingteam:
+    description: Allows the player to use /pt
+    default: true

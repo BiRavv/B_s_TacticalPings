@@ -1,10 +1,10 @@
-package biraw.online.b_s_TactikalPings;
+package biraw.online.b_s_TacticalPings;
 
-import biraw.online.b_s_TactikalPings.Managers.ConfigManager;
-import biraw.online.b_s_TactikalPings.Managers.TeamCommandManager;
-import biraw.online.b_s_TactikalPings.Listeners.PlayerLeaveL;
-import biraw.online.b_s_TactikalPings.Listeners.PlayerPingL;
-import biraw.online.b_s_TactikalPings.Managers.TeamManager;
+import biraw.online.b_s_TacticalPings.Managers.ConfigManager;
+import biraw.online.b_s_TacticalPings.Managers.TeamCommandManager;
+import biraw.online.b_s_TacticalPings.Listeners.PlayerLeaveL;
+import biraw.online.b_s_TacticalPings.Listeners.PlayerPingL;
+import biraw.online.b_s_TacticalPings.Managers.TeamManager;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;

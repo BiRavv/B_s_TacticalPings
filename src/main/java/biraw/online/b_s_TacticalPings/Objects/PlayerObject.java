@@ -1,8 +1,8 @@
-package biraw.online.b_s_TactikalPings.Objects;
+package biraw.online.b_s_TacticalPings.Objects;
 
-import biraw.online.b_s_TactikalPings.B_s_TacticalPings;
-import biraw.online.b_s_TactikalPings.Managers.ConfigManager;
-import biraw.online.b_s_TactikalPings.Managers.TeamManager;
+import biraw.online.b_s_TacticalPings.B_s_TacticalPings;
+import biraw.online.b_s_TacticalPings.Managers.ConfigManager;
+import biraw.online.b_s_TacticalPings.Managers.TeamManager;
 import org.bukkit.Bukkit;
 import org.bukkit.Color;
 import org.bukkit.Location;
@@ -10,7 +10,6 @@ import org.bukkit.Material;
 import org.bukkit.entity.BlockDisplay;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;
-import org.bukkit.scheduler.BukkitScheduler;
 import org.bukkit.util.Transformation;
 import org.joml.Quaternionf;
 import org.joml.Vector3f;

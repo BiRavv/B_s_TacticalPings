@@ -1,7 +1,7 @@
-package biraw.online.b_s_TactikalPings.Managers;
+package biraw.online.b_s_TacticalPings.Managers;
 
-import biraw.online.b_s_TactikalPings.Objects.PlayerObject;
-import biraw.online.b_s_TactikalPings.Objects.TeamObject;
+import biraw.online.b_s_TacticalPings.Objects.PlayerObject;
+import biraw.online.b_s_TacticalPings.Objects.TeamObject;
 import net.md_5.bungee.api.chat.ClickEvent;
 import net.md_5.bungee.api.chat.ComponentBuilder;
 import org.bukkit.Bukkit;

@@ -1,6 +1,6 @@
-package biraw.online.b_s_TactikalPings.Managers;
+package biraw.online.b_s_TacticalPings.Managers;
 
-import biraw.online.b_s_TactikalPings.B_s_TacticalPings;
+import biraw.online.b_s_TacticalPings.B_s_TacticalPings;
 import org.bukkit.configuration.file.FileConfiguration;
 
 public class ConfigManager {

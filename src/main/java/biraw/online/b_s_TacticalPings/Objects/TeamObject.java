@@ -1,8 +1,6 @@
-package biraw.online.b_s_TactikalPings.Objects;
+package biraw.online.b_s_TacticalPings.Objects;
 
-import biraw.online.b_s_TactikalPings.B_s_TacticalPings;
-import biraw.online.b_s_TactikalPings.Managers.TeamManager;
-import org.bukkit.Bukkit;
+import biraw.online.b_s_TacticalPings.Managers.TeamManager;
 import org.bukkit.Color;
 import org.bukkit.entity.Player;
 
